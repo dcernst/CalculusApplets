@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Optimization: Wire Problem 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Left and Right Riemman Sums
 ---
 

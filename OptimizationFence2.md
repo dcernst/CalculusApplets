@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Optimization: Fence Problem 2
 ---
 
