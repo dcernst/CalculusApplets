@@ -1,0 +1,25 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Calculus Applets
+tagline:             'A work in progress'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+baseurl:             http://dcernst.github.io/CalculusApplets/
+paginate:            5
+
+# About/contact
+author:
+  name:              Dana Ernst // Hannah Prawzinsky
+  url:               https://twitter.com/danaernst
+  email:             dana@danaernst.com
+
+# Custom vars
+version:             0.0.0
