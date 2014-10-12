@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tangent Line as a Limit of Secant Lines
 ---
 

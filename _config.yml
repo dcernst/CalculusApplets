@@ -12,7 +12,8 @@ relative_permalinks: true
 title:               Calculus Applets
 tagline:             'A work in progress'
 description:         'Blah blah blah'
-baseurl:             /CalculusApplets
+url:                  "http://dcernst.github.io"
+baseurl:             "/CalculusApplets"
 paginate:            5
 
 # About/contact
