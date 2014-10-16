@@ -14,7 +14,7 @@ tagline:             'Some wicked awesome GeoGebra applets!'
 description:         'Something clever here.'
 url:                 'http://dcernst.github.io'
 baseurl:             '/CalculusApplets'
-paginate:            5
+paginate:            10
 
 # About/contact
 author:
