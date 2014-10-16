@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introducing Wicked Awesome GeoGebra Applets
 ---
 
-Test post 1.
+Hannah made wicked awesome shit.
 
-This even has a [link to the about page]({{ site.baseurl }}/about)
+How about a [link to the about page]({{ site.baseurl }}/about)?
