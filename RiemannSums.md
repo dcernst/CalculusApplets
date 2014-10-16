@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Upper and Lower Riemman Sums
 ---
 

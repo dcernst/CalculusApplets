@@ -10,17 +10,17 @@ relative_permalinks: true
 
 # Setup
 title:               Calculus Applets
-tagline:             'A work in progress'
-description:         'Blah blah blah'
-url:                  "http://dcernst.github.io"
-baseurl:             "/CalculusApplets"
+tagline:             'Some wicked awesome GeoGebra applets!'
+description:         'Something clever here.'
+url:                 'http://dcernst.github.io'
+baseurl:             '/Calculus Applets'
 paginate:            5
 
 # About/contact
 author:
-  name:              Dana Ernst and Hannah Prawzinsky
+  name:              Dana C. Ernst and Hannah Prawzinsky
   url:               https://twitter.com/danaernst
   email:             dana@danaernst.com
 
 # Custom vars
-version:             0.0.0
+version:             1.0.0

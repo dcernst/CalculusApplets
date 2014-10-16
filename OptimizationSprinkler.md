@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Optimization: Sprinkler Problem 
+layout: page
+title: Optimization: Sprinkler Problem
 ---
 
 # Optimization: Sprinkler
