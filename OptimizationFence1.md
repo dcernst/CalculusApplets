@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimization: Fence Problem 1
+title: Fence Problem 1
 ---
 
 # Optimization: Fence Problem 1
