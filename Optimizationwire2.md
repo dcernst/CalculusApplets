@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimization: Wire Problem 2
+title: Wire Problem 2
 ---
 
 # Optimization: Wire Problem 2

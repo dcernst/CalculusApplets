@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimization: Sprinkler Problem
+title: Sprinkler Problem
 ---
 
 # Optimization: Sprinkler
