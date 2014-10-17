@@ -306,7 +306,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  /* color: #303030; */ /* dark grey */
+  color: #ac4142; /* red */
 }
 .page-title,
 .post-title {
