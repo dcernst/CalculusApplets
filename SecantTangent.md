@@ -7,7 +7,7 @@ title: Tangent Line as a Limit of Secant Lines
 
 # Instructions
 * Use the drop down menu to select a function.
-* The <font color="#1551b5">blue</font> line is a secant to the function through points $A$ and $B$.
+* The <font color="#1551b5">blue</font> line is a secant to the function through points \\(A\\) and $B$.
 * The <font color="#0a971e">green</font> line is a tangent to the function through point $A$.
 * Drag points $A$ and $B$ to see how the slopes of the tangent and secant lines change.
 * Drag point $B$ closer to point A and see what happens to the slopes of the secant and tangent lines as B approaches A.
