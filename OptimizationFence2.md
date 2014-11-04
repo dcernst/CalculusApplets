@@ -16,6 +16,7 @@ A farmer needs to enclose a field with a fence partitioned down the center. She 
 * Check your predictions by changing the dimensions of the field until the calculated area is the greatest.
 
  _Make a Prediction_: Determine the dimensions of the field that will enclose the smallest area. What shape is this field?
+
 * Check your predictions by changing the dimensions of the field until the calculated area is the smallest.
 
  _Elaboration_:
