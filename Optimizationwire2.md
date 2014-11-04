@@ -3,6 +3,8 @@ layout: page
 title: Wire Problem 2
 ---
 
+A 12 foot piece of wire is cut into two pieces and one piece is bent into a square and the other piece is bent into an equilateral triangle. Determine where to cut the wire so that the area enclosed by the two shapes is a maximum or a minimum.
+
 <iframe scrolling="no" src="https://tube.geogebra.org/material/iframe/id/107364/width/1000/height/550/border/888888/rc/false/ai/false/sdz/false/smb/false/stb/false/stbh/true/ld/false/sri/true/at/preferhtml5" width="1000px" height="550px" style="border:0px;"> </iframe>
 
 #Instructions:
