@@ -6,7 +6,7 @@ A farmer needs to enclose a field with a fence. She has 10 meters of fencing mat
 
 <iframe scrolling="no" src="https://tube.geogebra.org/material/iframe/id/107320/width/980/height/540/border/888888/rc/false/ai/false/sdz/false/smb/false/stb/false/stbh/true/ld/false/sri/true/at/preferhtml5" width="980px" height="540px" style="border:0px;"> </iframe>
 
-#Instructions:
+<h1> <font color="#ac4142">Instructions</font></h1>
 * Drag the purple 'X' or use the 'Show Animation' and 'Stop Animation' Buttons to change the dimensions of the field.
 * Click the check box 'Show Area' to show or hide the calculated area.
 
